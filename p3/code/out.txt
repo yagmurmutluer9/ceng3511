@@ -1,0 +1,3 @@
+chromosome 000010001111011
+value 1442
+weight  747
